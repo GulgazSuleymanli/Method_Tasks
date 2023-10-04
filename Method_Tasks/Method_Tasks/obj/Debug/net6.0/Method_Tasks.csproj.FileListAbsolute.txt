@@ -1,0 +1,14 @@
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\obj\Debug\net6.0\Method_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\obj\Debug\net6.0\Method_Tasks.AssemblyInfoInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\obj\Debug\net6.0\Method_Tasks.AssemblyInfo.cs
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\obj\Debug\net6.0\Method_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\bin\Debug\net6.0\Method_Tasks.exe
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\bin\Debug\net6.0\Method_Tasks.deps.json
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\bin\Debug\net6.0\Method_Tasks.runtimeconfig.json
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\bin\Debug\net6.0\Method_Tasks.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\bin\Debug\net6.0\Method_Tasks.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\obj\Debug\net6.0\Method_Tasks.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\obj\Debug\net6.0\refint\Method_Tasks.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\obj\Debug\net6.0\Method_Tasks.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\obj\Debug\net6.0\Method_Tasks.genruntimeconfig.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Methods\Method_Tasks\Method_Tasks\obj\Debug\net6.0\ref\Method_Tasks.dll
